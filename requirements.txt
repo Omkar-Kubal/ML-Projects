@@ -10,4 +10,5 @@ catboost>=0.24.2
 xgboost>=1.2.1
 dill>=0.3.7
 Flask
+gunicorn
 #-e .
